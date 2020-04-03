@@ -1,0 +1,107 @@
+@media screen and (max-width: 1200px){
+  .page-nav{
+    display: block;
+    position: absolute;
+    background-color: rgb(0,0,0,0.5); 
+    width: 50%;
+    top: 95px;
+  }
+  .page-nav>ul>li{
+    display: block;
+    position: relative;
+     margin: 0px;
+    padding: 2px;
+  }
+  .page-nav>ul{
+    text-align: center;
+    float: initial;
+  }
+  .mobile-nav{
+    display: block;
+    margin: 10px;
+  }
+  /*trip ko lagi hai guys*/
+  
+  }
+  @media (max-width: 760px) {
+    .open-slide {
+      display: block !important;
+    }
+    .nav-list{
+      display: none ;
+    }
+
+
+}
+@media screen and (max-width: 900px){
+  .page-nav{
+    display: block;
+    position: absolute;
+    background-color: rgb(0,0,0,0.5); 
+    width: 50%;
+    top: 95px;
+  }
+  .page-nav>ul>li{
+    display: block;
+    position: relative;
+     margin: 0px;
+    padding: 2px;
+  }
+  .page-nav>ul{
+    text-align: center;
+    float: initial;
+  }
+  .mobile-nav{
+    display: block;
+    margin: 10px;
+  }
+  /*trip ko lagi hai guys*/
+  
+  }
+  @media (max-width: 760px) {
+    .open-slide {
+      display: block !important;
+    }
+    .nav-list{
+      display: none ;
+    }
+
+}
+@media screen and (max-width: 768px){
+.page-nav{
+  display: block;
+  position: absolute;
+  background-color: rgb(0,0,0,0.5); 
+  width: 100%;
+  top: 95px;
+}
+.page-nav>ul>li{
+  display: block;
+  position: relative;
+   margin: 0px;
+  padding: 2px;
+}
+.page-nav>ul{
+  text-align: center;
+  float: initial;
+}
+.mobile-nav{
+  display: block;
+  margin: 10px;
+}
+/*trip ko lagi hai guys*/
+
+}
+@media (max-width: 760px) {
+  .open-slide {
+    display: block !important;
+  }
+  .nav-list{
+    display: none ;
+  }
+}
+@media screen and (max-width: 500px){
+}
+
+@media screen and (max-width: 300px){
+}

@@ -1,0 +1,152 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	width: 100%;
+}
+.container
+{
+	width: 100%;
+	margin: 0 auto;
+}
+.heroimg{
+padding: 0;
+}
+.columnjohn{
+	width: 33.33%;
+	height: auto;
+	display: grid;
+	float: left;
+	padding: 3px;
+	top: 20px;
+}
+
+
+.columnjohn:hover{
+	box-shadow: 0 0 11px rgba(33,33,33,.2); 
+	border: #75665c;
+}
+.columnjohn>h1{
+	text-align: center;
+}
+.columnimg{
+	width: 30%;
+	height: auto;
+	display: grid;
+	float: left;
+}
+.row{
+	box-shadow: 10px;
+	display: table;
+	clear: both;
+	padding: 10px;
+}
+.columnjohn>p{
+	font-size: 25px;
+	padding: 10px;
+	text-align: justify;
+	
+}
+
+/*Johnson profile*/
+.columnshiva{
+	width: 70%;
+	height: auto;
+	display: grid;
+	float: left;
+	top: 20px;
+}
+.columnshiva:hover{
+	box-shadow: 0 0 11px rgba(33,33,33,.2); 
+	border: #75665c;
+}
+.columnimg1{
+	width: 30%;
+	height: auto;
+	display: grid;
+	float: left;
+}
+.columnshiva>h1{
+	text-align: center;
+}
+.row1{
+	box-shadow: 10px;
+	display: table;
+	clear: both;
+	padding: 10px;
+}
+.columnshiva>p{
+	font-size: 25px;
+	padding: 10px;
+	text-align: justify;
+	
+}
+
+/*profile of shiva giri*/
+.columnpramod{
+	width: 70%;
+	height: auto;
+	display: grid;
+	float: left;
+}
+.columnpramod:hover{
+	box-shadow: 0 0 11px rgba(33,33,33,.2); 
+	border: #75665c;
+}
+.columnimg2{
+	width: 30%;
+	height: auto;
+	display: grid;
+	float: left;
+}
+.row2{
+	box-shadow: 10px;
+	display: table;
+	clear: both;
+	padding: 10px;
+}
+.columnpramod>h1{
+	text-align: center;
+}
+.columnpramod>p{
+	font-size: 25px;
+	padding: 10px;
+	text-align: justify;
+	
+}
+
+/*profile of pramod*/
+.columnyogi{
+	width: 70%;
+	height: auto;
+	display: grid;
+	float: left;
+}
+.columnyogi:hover{
+	box-shadow: 0 0 11px rgba(33,33,33,.2); 
+	border: #75665c;
+}
+.columnimg3{
+	width: 30%;
+	height: auto;
+	display: grid;
+	float: left;
+}
+.row3{
+	box-shadow: 10px;
+	display: table;
+	clear: both;
+	padding: 10px;
+}
+.columnyogi>h1{
+	text-align: center;
+}
+.columnyogi>p{
+	font-size: 25px;
+	padding: 10px;
+	text-align: justify;
+	
+}
+/*Yogesh profile*/

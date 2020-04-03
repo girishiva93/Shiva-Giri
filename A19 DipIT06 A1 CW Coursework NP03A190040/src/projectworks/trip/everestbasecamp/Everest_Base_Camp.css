@@ -1,0 +1,48 @@
+.everest>p{
+	font-family: 'Zhi Mang Xing', cursive;
+	position: absolute;
+	top: 300px;
+	color: white;
+	left: 50px;
+	font-size: 150px;
+}
+
+.columndetail{
+	float: left;
+	width: 80%;
+	height: auto;
+	display: grid;
+}
+.columndetail>p{
+	font-size: 30px;
+}
+.btnbook{
+	padding: 10px 15px;
+	background-color:white;
+	border-color: black;
+	border-radius: 100px;
+	width: 300px;
+	position: relative;
+    left: 900px;
+}
+.btnbooknow:hover{
+	background-color: rgb(250,242,232);
+}
+
+.columnservice{
+	float: left;
+	width: 15%;
+	height: auto;
+	display: grid;
+}
+.columnservice>ul>li{
+	color: black;
+	display: list-item;
+	padding: 0px;
+	position: relative;
+    left: 50px;
+}
+.row{
+	display: table;
+	clear: both;
+}

@@ -1,0 +1,33 @@
+@media screen and (max-width: 1200px){
+    
+
+
+}
+@media screen and (max-width: 900px){
+
+
+}
+@media screen and (max-width: 768px){
+  .open-slide {
+    display: block !important;
+  }
+  .nav-list{
+    display: none ;
+  }
+  .logo{
+    position: relative;
+    float: right;
+    top: -105px;
+  }
+  .menu{
+    padding: 5px 30px;
+    background: blanchedalmond;
+    height: 50px;
+    border-color: #f0700b;
+  }
+}
+@media screen and (max-width: 500px){
+}
+
+@media screen and (max-width: 300px){
+}

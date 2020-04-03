@@ -1,0 +1,108 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	width: 100%;
+}
+.container
+{
+	width: 100%;
+	margin: 0 auto;
+}
+
+header{
+	width: 100%;
+	background-color: rgb(0,0,0,0.5);
+	position: fixed;
+	height: 95px;
+	}
+
+ul{
+	font-size: 25px;
+	float: right;
+	margin: 10px, 10px;
+}
+ul>li{
+	display: inline-block;
+	padding: 40px 20px;
+	color: white;
+}
+ul>li:hover{
+	background-color: #02AAB0;
+	background-position: right center;
+}
+li>a{
+	text-decoration: none;
+	color: white;
+}
+a{
+	text-decoration: none;
+}
+.page-header{
+	position: relative;
+
+}
+.logo{
+	padding: 5px 20px;
+}
+/* responsive navgation start */
+/* open slide button css start */
+.open-slide {
+	display: none;
+	margin: 30px;
+	padding-left: 20px;
+  }
+  .open-slide a {
+	color: #fff;
+	font-size: 30px;
+  }
+  /* open slide button css start */
+  
+  /* once button is pressed backgroudn appears from left and this is the start of the background */
+  #side-menu {
+	display: none;
+	background: #02aab0;
+	width: 50%;
+	height: 100%;
+	position: relative;
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	z-index: 2000;
+  }
+  .cross {
+	margin-top: 7px;
+	float: right;
+  }
+  .cross a {
+	color: #fff;
+	font-size: 50px;
+	text-decoration: none;
+  }
+  .side_nav-right {
+	display: flex;
+	margin: 18px;
+  }
+  /* side navgation lists starts */
+  .list ul {
+	list-style: none;
+	margin-top: 100px;
+	float:  left !important;
+  }
+  .list ul li {
+	padding: 10px;
+	transition: 0.9s;
+	margin-top: 10px;
+	margin-left: 20px;
+	font-size: 17.6px;
+	font-weight: 600;
+	display: block;
+  }
+  .list ul li a {
+	text-decoration: none;
+	color: #fff;
+  }
+  /* side navgation lists ends */

@@ -1,0 +1,88 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	width: 100%;
+}
+.container
+{
+	width: 100%;
+	margin: 0 auto;
+}
+.heroslider{
+	width: 100%;
+}
+.happyholidays>p{
+	font-family: 'Zhi Mang Xing', cursive;
+	position: absolute;
+	top: 300px;
+	color: white;
+	font-size: 210px;
+}
+.columneve{
+	width: 33.33%;
+	float: left;
+	padding: 10px;
+}
+.columneve>h1{
+	text-align: center;
+}
+.columneve:hover {
+	box-shadow: 0 0 11px rgba(33,33,33,.2); 
+	border: #75665c;
+  }
+.row{
+	display: table;
+	clear: both;
+	padding: 40px;
+}
+.readmore{
+	padding: 10px 15px;
+	background-color:white;
+	border-color: black;
+	border-radius: 100px;
+	width: 150px;
+	position: relative;
+    left: 150px;
+}
+.readmore:hover{
+	background-color: rgb(250,242,232);
+}
+.column1{
+	display: grid;
+	width: 33.33%;
+	float: left;
+	padding: 10px;
+}
+.column1:hover {
+	box-shadow: 0 0 11px rgba(33,33,33,.2); 
+	border: #75665c;
+  }
+.row1{
+	display: table;
+	clear: both;
+	padding: 40px;
+}
+.column1>h1{
+	text-align: center;
+}
+.column2{
+	display: grid;
+	width: 33.33%;
+	float: left;
+	padding: 10px;
+}
+.column2:hover {
+	box-shadow: 0 0 11px rgba(33,33,33,.2); 
+	border: #75665c;
+  }
+.row2{
+	display: table;
+	clear: both;
+	padding: 40px;
+}
+.column2>h1{
+	text-align: center;
+}

@@ -1,0 +1,164 @@
+@media screen and (max-width: 1200px){
+  .columnblog{
+    border: 4px;
+    display: grid;
+    width: 50%;
+    float: left;
+    padding: 10px;
+  
+  }
+  .rowblog{
+    box-shadow: 10px;
+    padding: 29px;
+    display: table;
+    clear: both;
+  
+  }
+  .columnblog>p{
+    font-size: 30px;
+    float: center;
+    padding: 5px;
+    text-align: justify;
+  }
+  .columnblog>h1{
+    text-align: center;
+  }
+  
+  .columnblog1{
+    border: 4px;
+    display: grid;
+    width: 50%;
+    float: left;
+    padding: 10px;
+  
+  }
+  .rowblog1{
+    box-shadow: 10px;
+    padding: 29px;
+    display: table;
+    clear: both;
+  
+  }
+  .columnblog1>p{
+    font-size: 30px;
+    float: center;
+    padding: 5px;
+    text-align: justify;
+  }
+  .columnblog1>h1{
+    text-align: center;
+  }  
+
+
+  }
+@media screen and (max-width: 900px){
+  .columnblog{
+    border: 4px;
+    display: grid;
+    width: 50%;
+    float: left;
+    padding: 10px;
+  
+  }
+  .rowblog{
+    box-shadow: 10px;
+    padding: 29px;
+    display: table;
+    clear: both;
+  
+  }
+  .columnblog>p{
+    font-size: 30px;
+    float: center;
+    padding: 5px;
+    text-align: justify;
+  }
+  .columnblog>h1{
+    text-align: center;
+  }
+  
+  .columnblog1{
+    border: 4px;
+    display: grid;
+    width: 50%;
+    float: left;
+    padding: 10px;
+  
+  }
+  .rowblog1{
+    box-shadow: 10px;
+    padding: 29px;
+    display: table;
+    clear: both;
+  
+  }
+  .columnblog1>p{
+    font-size: 30px;
+    float: center;
+    padding: 5px;
+    text-align: justify;
+  }
+  .columnblog1>h1{
+    text-align: center;
+  }  
+}
+@media screen and (max-width: 768px){
+  
+  .columnblog{
+    border: 4px;
+    display: grid;
+    width: 100%;
+    float: left;
+    padding: 10px;
+  
+  }
+  .rowblog{
+    box-shadow: 10px;
+    padding: 29px;
+    display: table;
+    clear: both;
+  
+  }
+  .columnblog>p{
+    font-size: 30px;
+    float: center;
+    padding: 5px;
+    text-align: justify;
+  }
+  .columnblog>h1{
+    text-align: center;
+  }
+  
+  .columnblog1{
+    border: 4px;
+    display: grid;
+    width: 100%;
+    float: left;
+    padding: 10px;
+  
+  }
+  .rowblog1{
+    box-shadow: 10px;
+    padding: 29px;
+    display: table;
+    clear: both;
+  
+  }
+  .columnblog1>p{
+    font-size: 30px;
+    float: center;
+    padding: 5px;
+    text-align: justify;
+  }
+  .columnblog1>h1{
+    text-align: center;
+  }  
+}
+@media screen and (max-width: 500px){
+
+}
+
+@media screen and (max-width: 300px){
+
+
+}

@@ -1,0 +1,261 @@
+@media screen and (max-width: 1200px){
+.columnjohn{
+  width: 50%;
+  height: auto;
+  display: grid;
+}
+.columnimg{
+  width: 50%;
+  height: auto;
+  display: grid;
+  float: left;
+}
+.row{
+  box-shadow: 10px;
+  display: table;
+  clear: both;
+  padding: 10px;
+}
+.columnjohn>h1{
+  text-align: center;
+}
+.columnjohn>p{
+  font-size: 25px;
+  padding: 10px;
+  text-align: justify;
+  
+}
+
+/*Johnson profile*/
+.columnshiva{
+  width: 50%;
+  height: auto;
+  display: grid;
+  float: left;
+  position: relative;
+  top: 20px;
+}
+.columnimg1{
+  width: 50%;
+  position: relative;
+  top: 40px;
+  height: auto;
+  display: grid;
+  float: left;
+}
+.row1{
+  box-shadow: 10px;
+  display: table;
+  clear: both;
+  padding: 10px;
+}
+.columnshiva>h1{
+  text-align: center;
+}
+.columnshiva>p{
+  font-size: 25px;
+  padding: 10px;
+  text-align: justify;
+}
+
+/*profile of shiva giri*/
+.columnpramod{
+  width: 50%;
+  height: auto;
+  display: grid;
+  float: left;
+  position: relative;
+  top: 20px;
+}
+.columnimg2{
+  width: 50%;
+  position: relative;
+  top: 40px;
+  height: auto;
+  display: grid;
+  float: left;
+}
+.row2{
+  box-shadow: 10px;
+  display: table;
+  clear: both;
+  padding: 10px;
+}
+.columnpramod>h1{
+  text-align: center;
+}
+.columnpramod>p{
+  font-size: 25px;
+  padding: 10px;
+  text-align: justify;
+  
+}
+
+/*profile of pramod*/
+.columnyogi{
+  width: 50%;
+  height: auto;
+  display: grid;
+  float: left;
+  position: relative;
+  top: 20px;
+}
+.columnimg3{
+  width: 50%;
+  position: relative;
+  top: 40px;
+  height: auto;
+  display: grid;
+  float: left;
+}
+.row3{
+  box-shadow: 10px;
+  display: table;
+  clear: both;
+  padding: 10px;
+}
+.columnyogi>p{
+  font-size: 25px;
+  padding: 10px;
+  text-align: justify;
+  
+}
+/*Meet our Local guide*/
+
+
+	}
+@media screen and (max-width: 900px){
+
+
+	}
+@media screen and (max-width: 768px){
+.columnjohn{
+  width: 100%;
+  height: auto;
+  display: grid;
+}
+.columnimg{
+  width: 100%;
+  height: auto;
+  display: grid;
+  float: left;
+}
+.row{
+  box-shadow: 10px;
+  display: table;
+  clear: both;
+  padding: 10px;
+}
+.columnjohn>h1{
+  text-align: center;
+}
+.columnjohn>p{
+  font-size: 25px;
+  padding: 10px;
+  text-align: justify;
+  
+}
+
+/*Johnson profile*/
+.columnshiva{
+  width: 100%;
+  height: auto;
+  display: grid;
+  float: left;
+  position: relative;
+  top: 20px;
+}
+.columnimg1{
+  width: 100%;
+  position: relative;
+  top: 40px;
+  height: auto;
+  display: grid;
+  float: left;
+}
+.row1{
+  box-shadow: 10px;
+  display: table;
+  clear: both;
+  padding: 10px;
+}
+.columnshiva>h1{
+  text-align: center;
+}
+.columnshiva>p{
+  font-size: 25px;
+  padding: 10px;
+  text-align: justify;
+}
+
+/*profile of shiva giri*/
+.columnpramod{
+  width: 100%;
+  height: auto;
+  display: grid;
+  float: left;
+  position: relative;
+  top: 20px;
+}
+.columnimg2{
+  width: 100%;
+  position: relative;
+  top: 40px;
+  height: auto;
+  display: grid;
+  float: left;
+}
+.row2{
+  box-shadow: 10px;
+  display: table;
+  clear: both;
+  padding: 10px;
+}
+.columnpramod>h1{
+  text-align: center;
+}
+.columnpramod>p{
+  font-size: 25px;
+  padding: 10px;
+  text-align: justify;
+  
+}
+
+/*profile of pramod*/
+.columnyogi{
+  width: 100%;
+  height: auto;
+  display: grid;
+  float: left;
+  position: relative;
+  top: 20px;
+}
+.columnimg3{
+  width: 100%;
+  position: relative;
+  top: 40px;
+  height: auto;
+  display: grid;
+  float: left;
+}
+.row3{
+  box-shadow: 10px;
+  display: table;
+  clear: both;
+  padding: 10px;
+}
+.columnyogi>p{
+  font-size: 25px;
+  padding: 10px;
+  text-align: justify;
+  
+}
+/*Meet our Local guide*/
+	}
+@media screen and (max-width: 500px){
+
+}
+
+@media screen and (max-width: 300px){
+
+}

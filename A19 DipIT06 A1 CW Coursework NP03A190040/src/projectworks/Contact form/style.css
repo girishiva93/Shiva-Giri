@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap");
+html {
+  scroll-behavior: smooth;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Raleway", Helvetica, Arial, sans-serif;
+  background-color: #f7f7f7;
+}
+p {
+  line-height: 1.6;
+  font-size: 16px;
+}
+/* Contact Us Start */
+.contact {
+  background-color: #fff;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  width: 90%;
+  padding-top: 150px;
+  margin: auto;
+  height: auto;
+}
+.contact_us {
+  display: flex;
+  flex-wrap: wrap;
+}
+.contact-input {
+  width: 50%;
+  padding: 30px;
+}
+.Contact-input_area label {
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.5;
+}
+.Contact-input_area input,
+.Contact-input_textarea textarea {
+  display: block;
+  width: 100%;
+  color: #707070;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 1.5;
+  padding: 16px;
+  border: 1px solid#ced4da;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 24px;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.5s ease-in-out;
+  font-family: "Raleway", Helvetica, Arial, sans-serif;
+}
+.Contact-input_area input:focus {
+  box-shadow: none;
+  border-color: #2eca6a;
+}
+.Contact-input_textarea textarea:focus {
+  box-shadow: none;
+  border-color: #2eca6a;
+}
+.send_message button {
+  background: #24f6a4;
+  border: 2px solid #24f6a4;
+  color: #fff;
+  height: auto;
+  padding: 15px;
+  font-size: 18px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: 0.9s;
+}
+.send_message button:hover {
+  background: transparent;
+  border: 2px solid #00baeb;
+  color: #00baeb;
+  border-radius: 15px;
+}
+.contact-information {
+  width: 50%;
+  padding: 30px;
+}
+.contact-details {
+  padding: 10px;
+}
+.contact-i {
+  color: #707070 !important;
+  margin-left: 10px;
+  position: relative;
+}
+.contact-details a {
+  text-decoration: none;
+  color: #707070;
+  padding-top: 2px;
+  padding-left: 20px;
+  display: block;
+  line-height: 1.6;
+  font-size: 16px;
+}
+
+/* Contact Us End */
+

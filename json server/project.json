@@ -1,0 +1,296 @@
+{
+  "About_Us": [
+    {
+      "id": 1,
+      "title": "About_us",
+      "Name":"",
+      "rating":"",
+      "Description": "Pacific Discovery is an educational organization and a labor of love. Since its inception in 2001, Pacific Discovery has taken more than 2,000 students and many faculty-led groups on our experiential journeys. We value our incredible team of experienced, qualified and passionate Program Instructors. We have an excellent safety record, comprehensive safety management systems and a database of alumni, parents, advisers and faculty, who are happy to be contacted by you, to discuss their experience. Pacific Discovery has undergone independent safety accreditations with Gap Year Association (USA), Year Out Group (UK), and OutdoorsMark (NZ). Our summer, semester and gap year programs are grounded in the philosophy of experiential education, where learning is facilitated and hands-on. Our programs are overland journeys, blending cultural immersion, personal and leadership development, volunteer and community service projects, experiential education, wilderness exploration and optional transferable academic credit. Our Mission is to offer the world’s best experiential programs - providing insights into our increasingly global society, developing empathy for other cultures, furthering understanding of international issues, heightening appreciation for the earth’s wild places, and assisting you to stretch and grow. Our story Kiwi’s Rachel Sanson and Scott Burnett, founded Pacific Discovery in 2001, utilizing experience gained through working in environmental and outdoor education, teaching, tourism, grass-roots community development and extensive travels. From the start the focus was offering deeply meaningful programs where students would gain new insights and ways of thinking about our world, through educational journeys. These journeys were ethically sound, ensured a positive outcome for host communities, and a lower impact on the environment. Initially based in Oregon, they relocated Pacific Discovery's home to New Zealand in 2005 to raise family. In 2018 the reins were handed to another kiwi, Zach Johnston. Alongside continued input from Rachel and Scott, Zach’s varied educational and leadership experience made him the perfect person to continue the focus on authentic and inspiring international travel. As a Senior Instructor in Leadership Development, General Manager in the Tourism Industry, Field Based Outdoor Educator, International Expedition Leader, and Operational Ambulance Officer with extensive travel experience around the world, his input into program development and commitment to consistency of service is apparent. Today, Pacific Discovery runs 25+ programs annually. We continue to be a small and personal organization that strives to offer authentic, inspiring and pivotal experiences. As an organisation, we remain passionately and personally involved in all aspects of the program, from answering phone and email enquiries, to researching, developing and evaluating programs. We even manage to get out and lead programs from time to time. This means you have a very personalized experience and can trust that we are always focused on providing you with an inspiring and safe journey with Pacific Discovery. Visit our Gallery of Appreciation to see a group photo from every Pacific Discovery program."
+    }
+  ],
+  "trip": [
+    {
+      "id": 1,
+      "title": "Everest Base Camp",
+      "Name":"",
+      "rating":"",
+      "image":"everest.jpg",
+      "Description": "Everest Base Camp trek is quite simply the classic trek in Nepal. High in the priority list of trekkers, the Everest Base Camp is one of the most visited regions in the Himalaya. The two week trek starts and finishes at Lukla, an airstrip to the south of the region also known as the ‘Gateway to Everest’. Most trekkers fly to Lukla, to begin the trek.Starting from Lukla, a gentle two-day trek up the Dudh Koshi valley leads to the famous Namche Bazaar. The route has an abundance of tea houses. Phakding and Monjo are the popular stopovers on the first day and just beyond Monjo is the entrance to the Sagarmatha National Park at Jorsale check point where permits are checked. The trail that followed the Dudh Koshi River starts going uphill from the suspension bridge just a few minutes from Jorsale and Namche Bazaar is reached after a 3 hour hike. It is good to halt here for a few days to acclimatize by walking in the surroundings of Namche as it can’t be done in a hurry. A visit to Syangboche or some Sherpa villages such as Thame, Khumjung and Khunde just a few hours walk from Namche are good options for a hike to while away your time. Leaving Namche Bazaar, the trail follows the valley of Imja Khola with spectacular views of Thamserku, Kangtega and Ama Dablam mountains, while dominating the skyline ahead are the giants, Lhotse and Everest. The most common night halt after Namche is at the top of a steep climb from the Imja Khola at Tengboche. The Tengboche Monastery is one of the most famous monasteries, probably because of its unrivalled backdrop, Mt. Ama Dablam. Following the Imja Khola from Tengboche, the trail ascends through Pangboche until Pheriche or Dingboche is reached, where the day’s trek ends. Another day of acclimatization follows with a fascinating side trip to Chhukung which is about a 3 hour walk from Dingboche. From Dingboche or Pheriche a 6 hour walk leads to Lobuche which sits on the lateral moraine of the Khumbu glacier. What follows is a roughly 3 hour hike from Lobuche to the last settlement on the trail known as Gorak Shep. The few tea houses at this place provide shelter for the night before one undertakes the final leg of the trek over the glacier to Everest Base Camp.Above Gorak Shep is seen the popular view point known as Kala Patthar, from where many a trekker has captured the image of the world’s highest mountain and gazed up in awe. The trek along the glacier to base camp can take up to five hours. This is treacherous ground and one must walk through this area cautiously, as finding a route can be tricky and there’s always the risk of falling on the slippery ice. Being at Everest Base Camp is an out of this world experience."
+    },
+    {
+      "id": 2,
+      "title": "Everest Base Camp",
+      "Name":"",
+      "rating":"",
+      "image":"everest.jpg",
+      "Description": "Everest Base Camp trek is quite simply the classic trek in Nepal. High in the priority list of trekkers, the Everest Base Camp is one of the most visited regions in the Himalaya. The two week trek starts and finishes at Lukla, an airstrip to the south of the region also known as the ‘Gateway to Everest’. Most trekkers fly to Lukla, to begin the trek.Starting from Lukla, a gentle two-day trek up the Dudh Koshi valley leads to the famous Namche Bazaar. The route has an abundance of tea houses. Phakding and Monjo are the popular stopovers on the first day and just beyond Monjo is the entrance to the Sagarmatha National Park at Jorsale check point where permits are checked. The trail that followed the Dudh Koshi River starts going uphill from the suspension bridge just a few minutes from Jorsale and Namche Bazaar is reached after a 3 hour hike. It is good to halt here for a few days to acclimatize by walking in the surroundings of Namche as it can’t be done in a hurry. A visit to Syangboche or some Sherpa villages such as Thame, Khumjung and Khunde just a few hours walk from Namche are good options for a hike to while away your time. Leaving Namche Bazaar, the trail follows the valley of Imja Khola with spectacular views of Thamserku, Kangtega and Ama Dablam mountains, while dominating the skyline ahead are the giants, Lhotse and Everest. The most common night halt after Namche is at the top of a steep climb from the Imja Khola at Tengboche. The Tengboche Monastery is one of the most famous monasteries, probably because of its unrivalled backdrop, Mt. Ama Dablam. Following the Imja Khola from Tengboche, the trail ascends through Pangboche until Pheriche or Dingboche is reached, where the day’s trek ends. Another day of acclimatization follows with a fascinating side trip to Chhukung which is about a 3 hour walk from Dingboche. From Dingboche or Pheriche a 6 hour walk leads to Lobuche which sits on the lateral moraine of the Khumbu glacier. What follows is a roughly 3 hour hike from Lobuche to the last settlement on the trail known as Gorak Shep. The few tea houses at this place provide shelter for the night before one undertakes the final leg of the trek over the glacier to Everest Base Camp.Above Gorak Shep is seen the popular view point known as Kala Patthar, from where many a trekker has captured the image of the world’s highest mountain and gazed up in awe. The trek along the glacier to base camp can take up to five hours. This is treacherous ground and one must walk through this area cautiously, as finding a route can be tricky and there’s always the risk of falling on the slippery ice. Being at Everest Base Camp is an out of this world experience."
+    },
+    {
+      "id": 3,
+      "title": "Anapurna Base Camp",
+      "Name":"",
+      "rating":"",
+      "image":"anapurna.jpg",
+      "Description": "7 Days Annapurna base camp trek starts at Kimche, a short drive of 3 hours from Pokhara and one hour trek to Ghandruk village. The trail takes you through forests and fascinating traditional villages of Ghandurk and Chhomrong Gurung village. After reaching Chhomrong Gurung village, we follow the Modi Khola and passes through stands of rhododendron trees and bamboo. By the time you reach the large rock overhanging, known as Hinku Cave, you will have noticed that the vegetation has thinned and the gorge narrowed to be only a few hundred meters wide. Steep snow-clad ridges falling from Hiunchuli on the left and Machhapuchhre on the right from the sanctuary. As we enter the sanctuary, you find yourself in a huge Amphitheatre enclosed by a solid wall of snow-capped peaks. We get to Annapurna base camp hardly. You will see Himchuli, Annapurna South, Barahi Shikhar, Annapurna I, Tent Peak, Singachuli, Glacier Dom, Gangapurna, Annapurna III and Machhapuchhre snow-capped mountains around the Annapurna base camp which makes you worthwhile and happy. After this imaging view, you will trek down to Pokhara via Jhinu Hot Spring.Nepal Hidden Treks and Expedition organize 7 Days ABC Trek from Kathmandu or Pokhara.7 Days Annapurna Base Camp Trek Highlights Highest Poin Annapurna Base Camp (4130m) Very popular Gurung village Ghandruk and Chhomrong Jhinu Natural Hot Spring Himchuli, Annapurna South, Barahi Shikhar, Annapurna I, Glacier Dom, Gangapurna, Annapurna III and Machhapuchhre Annapurna conservation area project (ACAP) Trek Starting Point: Kathmandu or Pokhara Option I: If you start ABC  Trek from Pokhara, you will drive from your Hotel in Pokhara to Kimche and start the trek.Option II: If you start ABC trek from Kathmandu, you will take an early (first) flight from Kathmandu to Pokhara and drive to Kimche then start the trek on the same day Duration of Trek: If you want to include Ghorepani and Poonhill on this trek, it takes 09 days ( 2 extra days)Short Itinerary Day 01: Kathmandu or Pokhara - Nayapul - Ghandruk Day 02: Ghandruk - Chhomrong - Sinuwa Day 03: Sinuwa - Bamboo - Dovan - Himalayan - Deurali Day 04: Deurali - MBC - Annapurna Base Camp Day 05: Annapurna Base Camp - MBC- Deurali - Himalayan - Dovan -Bamboo Day 06: Bamboo - Sinuwa - Chhomrong - Jhinu - Kyumi Day 07: Kyumi - Siwai - Nayapul – Pokhara or Kathmandu" 
+    },
+    {
+      "id":4,
+      "title":"Mustang Village Trip",
+      "Name":"",
+      "rating":"",
+      "image":"mustang.jpg",
+      "Description":"Mustang is actually a district in the western part of Nepal. It is divided into two parts by the Himalayas. The lower part towards the south is called lower Mustang and the upper part towards the north is called Upper Mustang. Mustang Village isn’t really a single village, rather, it is a cluster of villages in the Mustang district. Mustang Village is one of the ideal destinations for you to spend your vacation, as it offers different kinds of experiences to the tourists that make it a point to take a tour here. Mustang Nepal is full of not just natural spectacles, but also religious and cultural heritages. Mustang Nepal is influenced mostly by Buddhism, but since Mustang Village is located so closely to Tibet, you’ll also get to witness an influence of Tibetan Buddhism and Bon religion here, which is a faith that originated in Tibet. Mustang Village is located around the Himalayas, and so, you’ll come across numerous Mustang Valley Nepal. The Mustang Valley Nepal is home to not just people but different species of wildlife and flora."
+    },
+    {
+    "id":5,
+    "title":"Mustang Village Trip",
+    "Name":"",
+    "rating":"",
+    "image":"mustang.jpg",
+    "Description":"Nepal government will conduct Rhino census in March next year.  The government could not conduct planned Rhino census last year as the donor agencies failed to provide the funding they pledged for the same.Officials of the Department of National Parks and Wildlife Conservation (DNPWC) said that they have already allocated budget Rs 11 million for this purpose. Officials said that they will approach the donor agencies only if they fail to have enough budgets for the census.Rhinos are found in Chitwan, Parsa, Bardiya and Shuklaphanta national parks. The census would be carried out in these national parks simultaneously. DNPWC deputy director-general Ram Chandra Kandel said they have started preparations to conduct the rhino census beginning from March 14, 2020.Officials said that separate task forces will be formed at the national parks under the coordination of the chief conservation officer of the park concerned as part of the Rhino census.According to him, a separate committee would also be formed at the Department to this effect.Kandel said a budget of around Rs 15 million is expected to be required for conducting the census in all the four national parks.The Department had not earmarked the budget under this heading last year. He said the rhino counting will take about one month in Chitwan national park while it may take for about a week to 10 days in other national parks.The highest number of rhinos is found in Chitwan. As per the census held in 2015, there were 645 rhinos throughout the country. Of the total number, 605 rhinos were counted in Chitwan national park alone. Many rhinos were swept away by the flood in Chitwan two years back while some of these pachyderms were found dead."
+  },
+  {
+    "id":6,
+    "title":"Bungee Jumping",
+    "Name":"",
+    "rating":"",
+    "image":"bungee.jpg",
+    "Description":"Adrenaline junkies have been coming to Nepal to experience this breathtaking and heart-pounding thrill of plunging off a suspension bridge above a river canyon. If you've got the courage it's the ultimate thrill few other activities can match and it's something that will stay with you forever.The thrill of a bungee jump can be experienced either at The Last Resort along the Arniko Highway or in the fascinating city of Pokhara.The bungee jump at the Last Resort was designed by one of New Zealand’s leading bungee consultants, and is operated by some of the most experienced jump masters in the business. The jump takes place from a 166 m wide steel suspension bridge that joins two sides of a deep valley over the raging Bhote Koshi River. The place has spectacular scenery with dense forests covering the top of the cliff. One can overnight here and go rafting canyoning and rock climbing as well."
+  },
+  {
+    "id":7,
+    "title": "Full Day Sightseeing in kathmandu",
+    "Name":"",
+    "rating":"",
+    "image":"patanphoto.jpg",
+    "Description":"Kathmandu day tour include tours of UNESCO world heritage cultural sites of Kathmandu. The day tour in Kathmandu includes tour of Kathmandu durbar squire, Swayambhunath Stupa, Bouddanath stupa and Pasupatinath temple in a single day & suitable for all aged people.Our tour guide collect you from your hotel (from your hotel you stay in Kathmandu) from 9:00 am to 9:30 am in the morning and you will be proceed Kathmandu tour with expert local tour guide and private vehicle.Kathmandu day tour starts from Swayambhunath Stupa commonly known as Monkey Temple. Legends say that Swayambhu was conceived out of a lotus blossom that sprouted amidst a lake that once spread over the Kathmandu valley. The biggest picture of the Sakyamuni Buddha in Nepal sits on a pedestal on the western limit of Swayambhu. Behind the ridge is a temple committed to Manjusri or Saraswati - the Goddess of learning. Chaityas, statues, and holy places of Buddhist and Hindu divinities fill the stupa complex, the Swayambhunath stupa is one of the UNESCO cultural heritage in Nepal.Kathmandu day tour then goes to visit Kathmandu durbar squire. The Kathmandu Durbar Square is one of the UNESCO World Heritage Sites also known as Hanuman Dhoka Square/Basantapur is one of the main attractions in Kathmandu valley. The name Hanuman Dhoka Durbar is originated from the statue of Hanuman set up by the King Pratap Malla at the passage of the regal royal residence in 1672 A.D. There are several temples, shrines, courtyards, and a palace inside the Durbar square that reflects the art and architecture of the medieval time.Kathmandu day tour then procced to Bouddhanath Stupa. Located 8 km toward the east of downtown Kathmandu, Boudhanath is a standout amongst the most imposing tourist spots in Kathmandu. The 36-meter-high stupa of Boudhanath is one of the biggest stupas in South Asia. With incalculable religious communities encompassing it, Boudhanath is the focal point of Tibetan Buddhism in Nepal. Bouddhanath Stupa is another UNESCO cultural heritage sites. You have lunch in restaurant in Bouddhanath.The day tour in Kathmandu then goes to visit the Pasupatinath temple and this heritage is the last place to visit on our day tour for today. The Pasupatinath Temple is devoted to Lord Shiva, Pashupatinath is one of the four most vital religious sites in Asia for devotees of Shiva. Built in the fifth century, and later redesigned by Malla rulers, the site itself is said to have existed from the earliest starting point of the thousand years when a Shiva lingam was found here. The biggest temple complex in Nepal, it extends on the two sides of the Bagmati River which is viewed as heavenly by Hindus and you see the cremation in this site as well.After visiting Pasupatinath temple, the Kathmandu day tour is complete and our guide drop you to your hotel in Kathmandu."
+  }
+  ],
+"Everest_Base_Camp": [{
+  "id": 2,
+  "title": "Everest Base Camp",
+  "Name":"",
+  "rating":"",
+  "image":"everest.jpg",
+  "Description": "Everest Base Camp trek is quite simply the classic trek in Nepal. High in the priority list of trekkers, the Everest Base Camp is one of the most visited regions in the Himalaya. The two week trek starts and finishes at Lukla, an airstrip to the south of the region also known as the ‘Gateway to Everest’. Most trekkers fly to Lukla, to begin the trek.Starting from Lukla, a gentle two-day trek up the Dudh Koshi valley leads to the famous Namche Bazaar. The route has an abundance of tea houses. Phakding and Monjo are the popular stopovers on the first day and just beyond Monjo is the entrance to the Sagarmatha National Park at Jorsale check point where permits are checked. The trail that followed the Dudh Koshi River starts going uphill from the suspension bridge just a few minutes from Jorsale and Namche Bazaar is reached after a 3 hour hike. It is good to halt here for a few days to acclimatize by walking in the surroundings of Namche as it can’t be done in a hurry. A visit to Syangboche or some Sherpa villages such as Thame, Khumjung and Khunde just a few hours walk from Namche are good options for a hike to while away your time. Leaving Namche Bazaar, the trail follows the valley of Imja Khola with spectacular views of Thamserku, Kangtega and Ama Dablam mountains, while dominating the skyline ahead are the giants, Lhotse and Everest. The most common night halt after Namche is at the top of a steep climb from the Imja Khola at Tengboche. The Tengboche Monastery is one of the most famous monasteries, probably because of its unrivalled backdrop, Mt. Ama Dablam. Following the Imja Khola from Tengboche, the trail ascends through Pangboche until Pheriche or Dingboche is reached, where the day’s trek ends. Another day of acclimatization follows with a fascinating side trip to Chhukung which is about a 3 hour walk from Dingboche. From Dingboche or Pheriche a 6 hour walk leads to Lobuche which sits on the lateral moraine of the Khumbu glacier. What follows is a roughly 3 hour hike from Lobuche to the last settlement on the trail known as Gorak Shep. The few tea houses at this place provide shelter for the night before one undertakes the final leg of the trek over the glacier to Everest Base Camp.Above Gorak Shep is seen the popular view point known as Kala Patthar, from where many a trekker has captured the image of the world’s highest mountain and gazed up in awe. The trek along the glacier to base camp can take up to five hours. This is treacherous ground and one must walk through this area cautiously, as finding a route can be tricky and there’s always the risk of falling on the slippery ice. Being at Everest Base Camp is an out of this world experience."
+
+}
+],
+"Anapurna_Base_Camp":[
+  {
+    "id": 3,
+    "title": "Anapurna Base Camp",
+    "Name":"",
+    "rating":"",
+    "image":"anapurna.jpg",
+    "Description": "7 Days Annapurna base camp trek starts at Kimche, a short drive of 3 hours from Pokhara and one hour trek to Ghandruk village. The trail takes you through forests and fascinating traditional villages of Ghandurk and Chhomrong Gurung village. After reaching Chhomrong Gurung village, we follow the Modi Khola and passes through stands of rhododendron trees and bamboo. By the time you reach the large rock overhanging, known as Hinku Cave, you will have noticed that the vegetation has thinned and the gorge narrowed to be only a few hundred meters wide. Steep snow-clad ridges falling from Hiunchuli on the left and Machhapuchhre on the right from the sanctuary. As we enter the sanctuary, you find yourself in a huge Amphitheatre enclosed by a solid wall of snow-capped peaks. We get to Annapurna base camp hardly. You will see Himchuli, Annapurna South, Barahi Shikhar, Annapurna I, Tent Peak, Singachuli, Glacier Dom, Gangapurna, Annapurna III and Machhapuchhre snow-capped mountains around the Annapurna base camp which makes you worthwhile and happy. After this imaging view, you will trek down to Pokhara via Jhinu Hot Spring.Nepal Hidden Treks and Expedition organize 7 Days ABC Trek from Kathmandu or Pokhara.7 Days Annapurna Base Camp Trek Highlights Highest Poin Annapurna Base Camp (4130m) Very popular Gurung village Ghandruk and Chhomrong Jhinu Natural Hot Spring Himchuli, Annapurna South, Barahi Shikhar, Annapurna I, Glacier Dom, Gangapurna, Annapurna III and Machhapuchhre Annapurna conservation area project (ACAP) Trek Starting Point: Kathmandu or Pokhara Option I: If you start ABC  Trek from Pokhara, you will drive from your Hotel in Pokhara to Kimche and start the trek.Option II: If you start ABC trek from Kathmandu, you will take an early (first) flight from Kathmandu to Pokhara and drive to Kimche then start the trek on the same day Duration of Trek: If you want to include Ghorepani and Poonhill on this trek, it takes 09 days ( 2 extra days)Short Itinerary Day 01: Kathmandu or Pokhara - Nayapul - Ghandruk Day 02: Ghandruk - Chhomrong - Sinuwa Day 03: Sinuwa - Bamboo - Dovan - Himalayan - Deurali Day 04: Deurali - MBC - Annapurna Base Camp Day 05: Annapurna Base Camp - MBC- Deurali - Himalayan - Dovan -Bamboo Day 06: Bamboo - Sinuwa - Chhomrong - Jhinu - Kyumi Day 07: Kyumi - Siwai - Nayapul – Pokhara or Kathmandu" 
+  }
+],
+"Mustang_Village_Trip":[
+  {
+   "id":5,
+    "title":"Mustang Village Trip",
+    "Name":"",
+    "rating":"",
+    "image":"mustang.jpg",
+    "Description":"Nepal government will conduct Rhino census in March next year.  The government could not conduct planned Rhino census last year as the donor agencies failed to provide the funding they pledged for the same.Officials of the Department of National Parks and Wildlife Conservation (DNPWC) said that they have already allocated budget Rs 11 million for this purpose. Officials said that they will approach the donor agencies only if they fail to have enough budgets for the census.Rhinos are found in Chitwan, Parsa, Bardiya and Shuklaphanta national parks. The census would be carried out in these national parks simultaneously. DNPWC deputy director-general Ram Chandra Kandel said they have started preparations to conduct the rhino census beginning from March 14, 2020.Officials said that separate task forces will be formed at the national parks under the coordination of the chief conservation officer of the park concerned as part of the Rhino census.According to him, a separate committee would also be formed at the Department to this effect.Kandel said a budget of around Rs 15 million is expected to be required for conducting the census in all the four national parks.The Department had not earmarked the budget under this heading last year. He said the rhino counting will take about one month in Chitwan national park while it may take for about a week to 10 days in other national parks.The highest number of rhinos is found in Chitwan. As per the census held in 2015, there were 645 rhinos throughout the country. Of the total number, 605 rhinos were counted in Chitwan national park alone. Many rhinos were swept away by the flood in Chitwan two years back while some of these pachyderms were found dead." 
+  }
+],
+"bungee_jumping":[
+  {
+  "id":6,
+  "title":"Bungee_Jumping",
+  "Name":"",
+  "rating":"",
+  "image":"bungee.jpg",
+  "Description":"Adrenaline junkies have been coming to Nepal to experience this breathtaking and heart-pounding thrill of plunging off a suspension bridge above a river canyon. If you've got the courage it's the ultimate thrill few other activities can match and it's something that will stay with you forever.The thrill of a bungee jump can be experienced either at The Last Resort along the Arniko Highway or in the fascinating city of Pokhara.The bungee jump at the Last Resort was designed by one of New Zealand’s leading bungee consultants, and is operated by some of the most experienced jump masters in the business. The jump takes place from a 166 m wide steel suspension bridge that joins two sides of a deep valley over the raging Bhote Koshi River. The place has spectacular scenery with dense forests covering the top of the cliff. One can overnight here and go rafting canyoning and rock climbing as well."
+}
+],
+"full_day_sightseeing_in_kathmandu":[
+{
+  "id":7,
+  "title": "Full Day Sightseeing in kathmandu",
+  "Name":"",
+  "rating":"",
+  "image":"patanphoto.jpg",
+  "Description":"Sherpa, also called Sharwa, group of some 150,000 mountain-dwelling people of Nepal; Sikkim state, India; and Tibet (China); they are related to the Bhutia. Small groups of Sherpas also live in parts of North America, Australia, and Europe. Sherpas are of Tibetan culture and descent and speak a language called Sherpa, which is closely related to the form of Tibetan spoken in Tibet. Sherpa is predominately a spoken language, although it is occasionally written in the Tibetan or Devanagari script. The greatest number of Sherpas live in Nepal and speak Nepali in addition to their own language. Those educated in Tibet or in Tibetan Buddhist monasteries may speak Tibetan. Most of those whose livelihood depends on mountaineering also speak one or several of the languages of climbers and tourists."
+}
+],
+  "Guide_Profile":[
+    {
+      "id" : 9,
+      "title": "Anapurna Base Camp",
+      "Name" : "Johnsom Dhakal",
+      "rating" : 9,
+      "image":"john.jpg",
+      "Description" : "Sherpa, also called Sharwa, group of some 150,000 mountain-dwelling people of Nepal; Sikkim state, India; and Tibet (China); they are related to the Bhutia. Small groups of Sherpas also live in parts of North America, Australia, and Europe. Sherpas are of Tibetan culture and descent and speak a language called Sherpa, which is closely related to the form of Tibetan spoken in Tibet. Sherpa is predominately a spoken language, although it is occasionally written in the Tibetan or Devanagari script. The greatest number of Sherpas live in Nepal and speak Nepali in addition to their own language. Those educated in Tibet or in Tibetan Buddhist monasteries may speak Tibetan. Most of those whose livelihood depends on mountaineering also speak one or several of the languages of climbers and tourists."
+  },
+    {
+        "id" : 8,
+        "title": "Everest Base Camp",
+        "Name" : "Shiva Giri",
+        "rating" : 9,
+        "image":"Aasis.jpg",
+        "Description" : "Sherpa, also called Sharwa, group of some 150,000 mountain-dwelling people of Nepal; Sikkim state, India; and Tibet (China); they are related to the Bhutia. Small groups of Sherpas also live in parts of North America, Australia, and Europe. Sherpas are of Tibetan culture and descent and speak a language called Sherpa, which is closely related to the form of Tibetan spoken in Tibet. Sherpa is predominately a spoken language, although it is occasionally written in the Tibetan or Devanagari script. The greatest number of Sherpas live in Nepal and speak Nepali in addition to their own language. Those educated in Tibet or in Tibetan Buddhist monasteries may speak Tibetan. Most of those whose livelihood depends on mountaineering also speak one or several of the languages of climbers and tourists."
+    },
+    {
+        "id" : 10,
+        "title": "Chitwan National Park",
+        "Name" : "Pramod Chaudary",
+        "rating" : 9,
+        "image":"pramod.jpg",
+        "Description" : "Sherpa, also called Sharwa, group of some 150,000 mountain-dwelling people of Nepal; Sikkim state, India; and Tibet (China); they are related to the Bhutia. Small groups of Sherpas also live in parts of North America, Australia, and Europe. Sherpas are of Tibetan culture and descent and speak a language called Sherpa, which is closely related to the form of Tibetan spoken in Tibet. Sherpa is predominately a spoken language, although it is occasionally written in the Tibetan or Devanagari script. The greatest number of Sherpas live in Nepal and speak Nepali in addition to their own language. Those educated in Tibet or in Tibetan Buddhist monasteries may speak Tibetan. Most of those whose livelihood depends on mountaineering also speak one or several of the languages of climbers and tourists."
+    },
+    {
+      "id":12,
+      "title" : "Kathmandu_Sightseeing",
+      "Name"  : "Ratan Gurung",
+      "rating" : 9,
+      "image" :"ratan.jpg",
+      "Description" :"Kathmandu, the capital and largest city of Nepal, is located in the Kathmandu Valley, central region of Nepal. The city itself is located 1296m above sea level and is home  to around 1.4 million people. Nepali is the spoken languageof Kathmandu, although English is widely spoken in all major tourist hotspots.Nepal itself is home to over 26 million people  and shares borders with China/Tibet to the north, and India to the south, east and west."
+  },
+    {
+      "id":13,
+      "title" : "Kathmandu_Sightseeing",
+      "Name"  : "Dorje Lama",
+      "rating" : 9,
+      "image" :"dorje.jpg",
+      "Description" :"Kathmandu, the capital and largest city of Nepal, is located in the Kathmandu Valley, central region of Nepal. The city itself is located 1296m above sea level and is home  to around 1.4 million people. Nepali is the spoken languageof Kathmandu, although English is widely spoken in all major tourist hotspots.Nepal itself is home to over 26 million people  and shares borders with China/Tibet to the north, and India to the south, east and west the Tibetan or Devanagari script. The greatest number of Sherpas live in Nepal and speak Nepali in addition to their own language. Those educated in Tibet or in Tibetan Buddhist monasteries may speak Tibetan. Most of those whose livelihood depends on mountaineering also speak one or several of the languages of climbers and touris."
+    },
+{
+  "id" : 11,
+  "title": "Anapurna",
+  "Name" : "Yogesh Shrestha",
+  "rating" : 9,
+  "image":"yogi1.jpg",
+  "Description" : "Sherpa, also called Sharwa, group of some 150,000 mountain-dwelling people of Nepal; Sikkim state, India; and Tibet (China); they are related to the Bhutia. Small groups of Sherpas also live in parts of North America, Australia, and Europe. Sherpas are of Tibetan culture and descent and speak a language called Sherpa, which is closely related to the form of Tibetan spoken in Tibet. Sherpa is predominately a spoken language, although it is occasionally written in the Tibetan or Devanagari script. The greatest number of Sherpas live in Nepal and speak Nepali in addition to their own language. Those educated in Tibet or in Tibetan Buddhist monasteries may speak Tibetan. Most of those whose livelihood depends on mountaineering also speak one or several of the languages of climbers and tourists."
+}
+],
+"cityguide":[
+    {
+        "id":15,
+        "title" : "Kathmandu Sightseeing",
+        "Name"  : "Pramod Chaudary",
+        "rating" : 9,
+        "image":"pramod.jpg",
+        "Description" :"Kathmandu, the capital and largest city of Nepal, is located in the Kathmandu Valley, central region of Nepal. The city itself is located 1296m above sea level and is home  to around 1.4 million people. Nepali is the spoken languageof Kathmandu, although English is widely spoken in all major tourist hotspots.Nepal itself is home to over 26 million people  and shares borders with China/Tibet to the north, and India to the south, east and west."
+    },
+    {
+        "id":16,
+        "title" : "Kathmandu_Sightseeing",
+        "Name"  : "John",
+        "rating" : 9,
+        "image" :"john.jpg",
+        "Description" :"Kathmandu, the capital and largest city of Nepal, is located in the Kathmandu Valley, central region of Nepal. The city itself is located 1296m above sea level and is home  to around 1.4 million people. Nepali is the spoken languageof Kathmandu, although English is widely spoken in all major tourist hotspots.Nepal itself is home to over 26 million people  and shares borders with China/Tibet to the north, and India to the south, east and west."
+    },
+    {
+        "id":17,
+        "title" : "Kathmandu_Sightseeing",
+        "Name"  : "Aasis Giri",
+        "rating" : 9,
+        "image"  :"Aasis.jpg",
+        "Description" :"Kathmandu, the capital and largest city of Nepal, is located in the Kathmandu Valley, central region of Nepal. The city itself is located 1296m above sea level and is home  to around 1.4 million people. Nepali is the spoken languageof Kathmandu, although English is widely spoken in all major tourist hotspots.Nepal itself is home to over 26 million people  and shares borders with China/Tibet to the north, and India to the south, east and west."
+    }
+],
+"shiva":[
+{
+  "id" : 8,
+  "title": "Everest Base Camp",
+  "Name" : "Shiva Giri",
+  "rating" : 9,
+  "image":"Aasis.jpg",
+  "Description" : "Everest Base Camp trek is quite simply the classic trek in Nepal. High in the priority list of trekkers,  the Everest Base Camp is one of the most visited regions in the  Himalaya. The two week trek starts and finishes at Lukla, an airstrip to the south of the region also known as the ‘Gateway to Everest’. Most trekkers fly to Lukla, to begin the trek."
+}
+],
+"johnsom":[
+{
+  "id" : 9,
+  "title": "Anapurna Base Camp",
+  "Name" : "Johnsom Dhakal",
+  "rating" : 9,
+  "image" :"john.jpg",
+  "Description" : "Everest Base Camp trek is quite simply the classic trek in Nepal. High in the priority list of trekkers,  the Everest Base Camp is one of the most visited regions in the Himalaya. The two week trek starts and finishes at Lukla, an airstrip to the south of the region also known as the ‘Gateway to Everest’. Most trekkers fly to Lukla, to begin the trek."
+}
+],
+"pramod":[
+{
+  "id" : 10,
+  "title": "Chitwan National Park",
+  "Name" : "Pramod Chaudary",
+  "rating" : 9,
+  "image":"pramod.jpg",
+  "Description" : "Everest Base Camp trek is quite simply the classic trek in Nepal. High in the priority list of trekkers, the Everest Base Camp is one of the most visited regions in the Himalaya. The two week trek starts and finishes at Lukla, an airstrip to the south of the region also known as the ‘Gateway to Everest’. Most trekkers fly to Lukla, to begin the trek."
+}
+],
+"yogesh":[
+{
+  "id":13,
+  "title" : "Kathmandu Sightseeing",
+  "Name"  : "yogesh",
+  "rating" : 9,
+  "image" :"yogi.jpg",
+  "Description" :"Kathmandu, the capital and largest city of Nepal, is located in the Kathmandu Valley, central region of Nepal. The city itself is located 1296m above sea level and is home  to around 1.4 million people. Nepali is the spoken languageof Kathmandu, although English is widely spoken in all major tourist hotspots.Nepal itself is home to over 26 million people  and shares borders with China/Tibet to the north, and India to the south, east and west."
+}
+],
+"aasis":[
+{
+  "id":14,
+  "title" : "Kathmandu Sightseeing",
+  "Name"  : "Aasis Giri",
+  "rating" : 9,
+  "image" :"yogi.jpg",
+  "Description" :"Kathmandu, the capital and largest city of Nepal, is located in the Kathmandu Valley, central region of Nepal. The city itself is located 1296m above sea level and is home  to around 1.4 million people. Nepali is the spoken languageof Kathmandu, although English is widely spoken in all major tourist hotspots.Nepal itself is home to over 26 million people  and shares borders with China/Tibet to the north, and India to the south, east and west."
+}
+],
+"blog":[
+  {
+    "id":"15",
+    "title" :"What it's like to climb Mount Everest without oxygen",
+    "Name" :"",
+    "rating":"",
+    "image":"/trip/photog.jpg",
+    "Description":"I’d be literally having to force myself after that 15th breath to take the next step,” said Ed Viesturs, the only American who has stood atop all 14 of the world’s 8,000-meter peaks — and he scaled them all without using supplemental oxygen. “Up there, you do something that’s too aerobic all of a sudden and you lay there for 10 minutes trying to catch your breath. Most people who climb Everest begin using supplemental oxygen — just oxygen, in climbing terms — at around 23,000 feet (about 7,000 meters). Above 26,000 feet, nearly everyone uses it, including most Sherpa guides.The tiny subset of climbers who don’t use bottled oxygen account for about 3 percent of total summits but 22 percent. "
+  },
+  {
+    "id":"16",
+    "title" :"Trekkers gone out of contact in Annapurna Base Camp area",
+    "Name" :"",
+    "rating":"",
+    "image":"/trip/bungee.jpg",
+    "Description":"TAAN Nepal Kathmandu, TAAN Nepal Pokhara, Tourist Police Pokhara, UNITRAV and All Nepal Tourism Workers Union are coordinating 24 hours with dealing a situation and managed the sent resuce team at Avalanche place nearIn his welcome remarks, Minister for Culture, Tourism and Civil Aviation Yogesh Bhattarai said that the VNY 2020 was only an entry point and that the government was preparing to observe the coming decade as the tourism decade. He also asked the people to welcome the Visit Nepal Year (VNY) by enlightening"
+  },
+  {
+    "id":"17",
+    "title" :"Visit Nepal Year 2020 campaign officially inaugurated",
+    "Name" :"",
+    "rating":"",
+    "image":"/trip/anapurna.jpg",
+    "Description":"The much awaited National Campaign “Visit Nepal Year 2020” was inaugurated by the President Bidhya Devi Bhandari on January 1, 2020 by lighting the “Flame of Unity” and unveiling the mascot of the VNY Yeti. The VNY 2020 is being observed as a national festival with a target to bring in 2 million tourists, and with a determination to establish tourism sector as the major foundation of Nepal’s economic prosperity."
+  },
+  {
+    "id":"18",
+    "title" :"TAAN opposes double entry fees in national park",
+    "Name" :"",
+    "rating":"",
+    "image":"/trip/mustang.jpg",
+    "Description":"A delegation led by Trekking Agencies’ Association of Nepal (TAAN) President Mr. Khum Bahadur Subedi met with Hon’ble Minister for Forest and Environment Mr. Shakti Bahadur Basnet on December 6, 2019 TAAN First Vice President Mr. Cholendra Bahadur Karki handed over three point memorandum to the Minister Basnet expressing strong opposition to the decision of Sagarmatha National Park and Shivapuri Conservation Area to charge double entry fees as well as the requirement of compulsory 'Local Nature Guides' for visitors entering the park. TAAN Secretary Mr. Damodar Dhakal stated that it is really unfortunate to require a local guide to enter."
+  },
+  {
+    "id":"19",
+    "title" :"TAAN discusses on Ramechhap tourism promotion",
+    "Name" :"",
+    "rating":"",
+    "image":"/trip/mount.jpg",
+    "Description":"Trekking Agencies’ Association of Nepal (TAAN) held a meeting with Manthali Municipality of Ramechhap district on November 19. As the government has decided to divert all flights of Lukla to Manthali airport from the Tribhuvan International Airport, tourists are facing difficulties due to ineffective management of airport and infrastructure. Discussing in the meeting, tourism entrepreneurs in Ramechhap are gearing up to develop the infrastructure in Manthali Municipality and TAAN has decided to provide skill-based training to entrepreneurs. “As entrepreneurs in Manthali have demanded skill-based training, we have decided to provide hospitality training here to improve the service quality,” TAAN General."
+  },
+
+  {
+    "id":"20",
+    "title" :"Tourism Secretary to resolve problems in tourism sector",
+    "Name" :"",
+    "rating":"",
+    "image":"/trip/boud.jpg",
+    "Description":"A delegation of Trekking Agencies’ Association of Nepal (TAAN) paid a courtesy call on Mr. Kedar Bahadur Adhikari, Secretary at the Ministry of Culture, Tourism and Civil Aviation on 23 October, 2019. The delegation led by TAAN President Mr. Khum Bahadur Subedi handed over 9-point memorandum to Secretary Adhikari apprising the latter about existing problems faced by Nepali tourism industry. The delegation pointed out the impractical imposition of expensive and double trekking permit fee as well as the need to make it mandatory to have at least two trekkers for trekking. Stating the importance of TIMS in controlling illegal trekking."
+  }
+]
+}

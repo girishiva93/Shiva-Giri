@@ -1,0 +1,108 @@
+#btnsubscribe{
+	margin: 10px;
+	border: none;
+	padding: 14px 28px;
+	font-size: 16px;
+	cursor: pointer;
+	border-radius: 2%;
+	}
+#btnsignup{
+	border: none;
+	color: white;
+	margin: 10px;
+	padding: 14px 28px;
+	font-size: 16px;
+	cursor: pointer;
+	background-color: rgb(51, 255, 189, 0.5);
+}
+.colfoot{
+	border: 4px;
+	display: grid;
+	width: 33.33%;
+	float: left;
+	padding: 10px;
+
+}
+.rowfoot{
+	box-shadow: 10px;
+	padding: 10px;
+	display: table;
+	clear: both;
+
+}
+.colfoot>p{
+	font-size: 25px;
+	color: white;
+	float: center;
+	padding: 5px;
+	text-align: justify;
+	position: relative;
+    top: -70;
+    left: 80;
+}
+.colfoot>h1{
+	text-align: center;
+	color: white;
+}
+.subscribe>h1{
+	color: white;
+}
+.copyright{
+	width: 100%;
+	background-color:#75665c;
+}
+.contactcol{
+	width: 20%;
+	display: grid;
+	padding: 5px;
+	float: left;
+}
+.contactcolnum{
+	width: 80%;
+	display: grid;
+}
+.contactcolnum>p{
+	font-size: 25px;
+	color: white;
+	float: right;
+	padding: 5px;
+	text-align: justify;
+}
+.contactrow{
+	display: table;
+	clear: both;
+	
+}
+.socialcol{
+	width: 20%;
+	display: grid;
+	padding: 5px;
+	float: left;
+}
+.socialcol>p{
+	font-size: 25px;
+	color: white;
+	float: right;
+	padding: 5px;
+	text-align: justify;
+}
+.socialrow{
+	display: table;
+	clear: both;
+	width: 70%;	
+	position: relative;
+    left: 40px;
+}
+.news{
+	font-size: 20px;
+	color: white;
+}
+.news>a{
+	font-size: 20px;
+	color: white;
+	position: relative;
+	left: 20px;
+}
+.news>a:hover{
+	color: blue;
+}

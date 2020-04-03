@@ -1,0 +1,78 @@
+@media screen and (max-width: 1200px){	
+  .aboutus{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 30px;
+    padding: 0px;
+    text-align: center;
+    }
+.btnbookfind {
+    border: none;
+    padding: 25px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #e1ccec;
+    border-radius: 2%;
+    border-radius: 50px;
+    top: 10px;
+    right: -200px;
+    position: relative;
+}
+.btnbooknow:hover{
+  background-color: rgb(241, 196, 15,0.5);
+}
+	}
+
+	
+@media screen and (max-width: 900px){
+  .aboutus{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 30px;
+    padding: 0px;
+    text-align: center;
+    }
+.btnbookfind {
+    border: none;
+    padding: 25px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #e1ccec;
+    border-radius: 2%;
+    border-radius: 50px;
+    top: 10px;
+    right: -200px;
+    position: relative;
+}
+.btnbooknow:hover{
+  background-color: rgb(241, 196, 15,0.5);
+}
+	}
+
+@media screen and (max-width: 768px){
+.aboutus{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 30px;
+    padding: 0px;
+    text-align: center;
+    }
+.btnbookfind {
+    border: none;
+    padding: 25px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #e1ccec;
+    border-radius: 2%;
+    border-radius: 50px;
+    top: 10px;
+    right: -60px;
+    position: relative;
+}
+.btnbooknow:hover{
+  background-color: rgb(241, 196, 15,0.5);
+}
+	}
+@media screen and (max-width: 500px){
+
+}
+@media screen and (max-width: 300px){
+
+}

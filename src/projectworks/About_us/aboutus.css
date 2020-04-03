@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	width: 100%;
+}
+.container
+{
+	width: 100%;
+	margin: 0 auto;
+}
+
+
+.heroimg{
+padding: 0ch;
+
+}
+.aboutus{
+font-family: 'Cormorant Garamond', serif;
+font-size: 20px;
+text-align: justify;
+margin: 20px;
+}
+.btnbookfind {
+    border: none;
+    padding: 25px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #e1ccec;
+    border-radius: 2%;
+    border-radius: 50px;
+    right: -600px;
+    position: relative;
+}
+.btnbookfind:hover{
+	background-color:orange;
+}
+
+
+
