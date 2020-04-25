@@ -11,7 +11,6 @@ class Indexhome extends Component {
             <React.Fragment>
                 <main>
                 <Search />
-                <script data-ad-client="ca-pub-2954326059838758" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <div className="container1">  
         <div className="row1">
             <div className="col1">
